@@ -1,0 +1,9 @@
+{
+	"name": "factorypracticearpitha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76c25a0e-97fc-4824-9441-9c18b0cd9838",
+		"tenantId": "a923e143-a384-453a-990c-0026b81dc356"
+	}
+}
